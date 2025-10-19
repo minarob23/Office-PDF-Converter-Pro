@@ -36,18 +36,23 @@ It features a **beautiful dark UI**, smooth animations, and live conversion prog
 ## ⚙️ Installation
 
 ### 1️⃣ Clone this repository
-bash git clone https://github.com/yourusername/OfficePDFConverterPro.git cd OfficePDFConverterPro ### 2️⃣ Create a virtual environment (optional but recommended)
-bash
+```bash 
+git clone https://github.com/yourusername/OfficePDFConverterPro.git cd OfficePDFConverterPro
+```
+### 2️⃣ Create a virtual environment (optional but recommended)
+```bash
 python -m venv venv
 venv\Scripts\activate      # On Windows (PowerShell/CMD)
 source venv/bin/activate   # On macOS/Linux
-
+```
 ### 3️⃣ Install dependencies
-bash pip install PyQt6 docx2pdf pdf2docx python-pptx openpyxl ### ▶️ Run the App
-bash
+```bash
+pip install PyQt6 docx2pdf pdf2docx python-pptx openpyxl
+```
+### ▶️ Run the App
+```bash
 python OfficePDFConverterPro.py
-
----
+```
 
 ## 🧭 Usage Guide
 
