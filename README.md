@@ -37,7 +37,8 @@ It features a **beautiful dark UI**, smooth animations, and live conversion prog
 
 ### 1️⃣ Clone this repository
 ```bash 
-git clone https://github.com/yourusername/OfficePDFConverterPro.git cd OfficePDFConverterPro
+git clone https://github.com/yourusername/OfficePDFConverterPro.git
+cd OfficePDFConverterPro
 ```
 ### 2️⃣ Create a virtual environment (optional but recommended)
 ```bash
